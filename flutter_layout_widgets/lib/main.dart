@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
 //                      width: 10.0,
 //                    ),
 //                    Text(
-//                      '+66 0000 11111',
+//                      '+66 xxxx xxxxx',
 //                      style: TextStyle(
 //                        fontFamily: 'Sriracha',
 //                        fontSize: 20.0
@@ -73,7 +73,7 @@ class MyApp extends StatelessWidget {
 //                      color: Colors.white,
                   ),
                   title : Text(
-                    '+66 0000 11111',
+                    '+66 xxxx xxxxx',
                     style: TextStyle(
                         fontFamily: 'Sriracha',
                         fontSize: 20.0
@@ -90,7 +90,7 @@ class MyApp extends StatelessWidget {
 //                      color: Colors.white,
                   ),
                   title : Text(
-                    'replyto.siriwat@gmail.com',
+                    'replyto.example@mail.com',
                     style: TextStyle(
                         fontFamily: 'Sriracha',
                         fontSize: 20.0
